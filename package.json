@@ -1,1 +1,20 @@
-{}
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "malak first website",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AYCH17/malak_first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AYCH17/malak_first/issues"
+  },
+  "homepage": "https://github.com/AYCH17/malak_first#readme"
+}
